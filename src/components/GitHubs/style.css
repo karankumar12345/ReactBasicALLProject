@@ -1,0 +1,18 @@
+.github-profile-container{
+ margin: 0 auto;
+ height: 100vh;
+
+}
+.input-wrapper{
+    height: 30px;
+}
+.avatar{
+    margin-top: 1%;
+    border-radius: 50%;
+}
+.user{
+    background-color: red;
+   margin: 5%;
+   border-radius: 20px;
+    
+}

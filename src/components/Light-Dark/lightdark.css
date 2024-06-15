@@ -1,0 +1,14 @@
+.light-dark-mode{
+    background-color: white;
+    color: black;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+[data-theme='dark']{
+    background-color: black;
+    color: white;
+    height: 100vh;
+}
